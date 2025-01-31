@@ -1,0 +1,10 @@
+paths:
+  raw_data: "raw_data/"
+  transformed_data: "master_data/"
+  csv_files: ["raw_data/departments.csv", "raw_data/dept_emp.csv", "raw_data/dept_manager.csv", "raw_data/employees.csv", "raw_data/salaries.csv", "raw_data/titles.csv"]
+  logs: "logs/"
+
+urls:
+  data_source: "https://github.com/ibitec7/DE_projects/tree/main/employees/data_employees/"
+
+
