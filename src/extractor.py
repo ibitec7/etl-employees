@@ -7,7 +7,7 @@ from tqdm import tqdm
 import time
 import yaml
 
-def load_config(config_file="config.yaml"):
+def load_config(config_file="./config.yaml"):
     with open(config_file, 'r') as file:
         config = yaml.safe_load(file)
 

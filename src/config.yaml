@@ -5,6 +5,6 @@ paths:
   logs: "logs/"
 
 urls:
-  data_source: "https://github.com/ibitec7/DE_projects/tree/main/employees/data_employees/"
+  data_source: "https://github.com/ibitec7/DE_projects/tree/main/employees/data/"
 
 
